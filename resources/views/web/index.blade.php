@@ -40,7 +40,7 @@
             <div class="row">
                <div class="col mx-auto">
                   <h1 class="text-white text-center">
-                     <span>WELCOME TO My Med Products</span>
+                     <span>WELCOME TO My Medicine Products</span>
                     <span class="text-white"> 20% Off For all Orders with Bitcoin </span>
                   </h1>
                </div>
